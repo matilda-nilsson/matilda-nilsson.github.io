@@ -24,6 +24,11 @@ Some other things I would say in "name three fun facts about yourself" games:
 - Cat shelter volunteer, fostering at-risk cats and kittens to become adoptable.
 - Community programs, aiding homeless shelters in organization, sanitation, and other needs.
 
+## Education
+### University of Essex 
+  MSc Data Science
+### Arcadia University
+  BA Computing Technology & Design
 
-### Projects
+## Projects
 
