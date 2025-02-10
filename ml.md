@@ -1,8 +1,3 @@
----
-layout: default
-title: Machine Learning
-description: ---
-
 ## Machine Learning
 
 ### Learning Outcomes
