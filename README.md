@@ -3,7 +3,7 @@
 ## About Matilda
 I am a 28-year-old from Sweden who has been residing in the United States for some time now. I am passionate about many things, including early modern history, classical literature, and animal rights. I studied computer science as an undergrad at Arcadia University, Philadelphia, and am now working to earn my MSc in data science. 
 
-I enjoy solving problems and am fascinated by statistical data analysis. I ride horses, play rugby, and oil paint in my free time. One day I hope to tackle my mile-high TBR book pile. 
+I enjoy solving problems and am fascinated by statistical data analysis. I ride horses, play rugby, and oil paint in my free time. One day, I hope to tackle my mile-high TBR book pile. 
 
 ## Experience
 ### Weems Design Studio
