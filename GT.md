@@ -69,5 +69,7 @@ This consistent color scheme enhances users’ ability to visually interpret tem
 
 This Tableau dashboard empowers users to explore how global temperatures have changed over the last 100 years. With interactive filters, intuitive visuals, and real-time updates based on user interaction, it serves as an accessible yet informative resource on the implications of climate change.
 
+A full report document on this project can be found here: [gl_report.docx](https://github.com/user-attachments/files/19827178/gl_report.docx)
+
 ---
 
