@@ -6,7 +6,12 @@
 - [Unit 2: EDA Introduction](#unit2)
 - [Unit 3: Correlation and Regression](#unit3)
 - [Unit 5: Jaccard Coefficient Calculation](#unit5)
-- [Unit 6: Developmental Project](#unit6) 
+- [Unit 6: Developmental Project](#unit6)
+- [Unit 7: Perceptron Activites](#unit7) 
+- [Unit 8: Gradient Cost Function](#unit8) 
+- [Unit 9-10: Legal and Ethical ANN Applications](#unit9)
+- [Unit 11: Individual Development Project on CIFAR-10 ](#unit11)
+- [Personal Reflection](#reflection)
 
 
 ### Learning Outcomes
