@@ -1,6 +1,6 @@
 ## Machine Learning
 
-## Jump to Section
+### Jump to Section
 
 - [Unit 1: The 4th Industrial Recolution](#unit1)
 - [Unit 2: EDA Introduction](#unit2)
