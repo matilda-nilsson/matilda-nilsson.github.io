@@ -73,7 +73,7 @@ Utilizing our new knowledge on Perceptron, this unit explored changing input val
 
 What is the minimum cost with minimum iterations? In this unit, we had an exercise of reaching that goal. The original set had 100 iterations with a learning rate of 0.8,  the decrease had 50 iterations and a learning rate of 0.7
 
-### Unit 9 - 10 Legal and Ethical ANN Applications <a name="unit9"></a>
+## Unit 9 - 10 Legal and Ethical ANN Applications <a name="unit9"></a>
 The increase in use of AI has grown exponentially in the last decade, and even more in the last couple of years. Despite its many benefits, unregulated anything can lead to many ethical concerns. The lack of transparency in training data regarding AI remains a huge issue (European Council, 2024). While bringing AI into our daily lives is proving numerous advantages in customer experience and in the medical field of diagnostics. The energy industry has also started to utilize AI to boost efficiency, while banking systems are improving their fraud detection and security with AI (Google, 2024).
 
 AI does, however, cause concern for quality bias, since poorly cleaned data can lead to harmful results. The issue is greatly exacerbated without safeguards and regulations (European Council, 2024). As AI technology spreads and becomes increasingly available in every industry and individual's lives, the responsibility of its impact will fall on lawmakers and ethical discussions of where AI belongs and, more importantly, where it does not. 
