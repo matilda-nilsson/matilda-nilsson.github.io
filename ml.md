@@ -63,7 +63,8 @@ Unit 5 we learned how to calculate the Jaccard Coefficient.
 This unit was dedicated to our submission of our Development Team Project. We were tasked to complete a data analysis report and a peer review of our team members. 
 This project challenged me to take more initiative and lead in scheduling meetings and becoming more of a team leader. Confidence during team discussions is also something I have to work on, and to approach each challenge with an open mind rather than what I believe is the ideal solution. My greatest strengths in this team project was my literary skills and willingness to cooperate, which both carried the team greatly during the report writing and summarization needed. Our team was the most productive during our discussions, setting realistic goals and assigning tasks to each member in a realistic time frame. Our greatest weakness was a certain pessimistic outlook on the perceived difficulty of the task, while I believed it was a reasonable project. 
 
-The link to our report can be found here: [Project Report](/assets/ml/ml_report_u6.pdf)
+The link to our report can be found here: [Project Report](/assets/css/ml/ml_report_u6.pdf)
+
 
 ## Unit 7 Perceptron Activites <a name="unit7"></a>
 
@@ -88,7 +89,8 @@ Google (2024). Applications of Artificial Intelligence (AI). [online] Google Clo
 ## Unit 11 Individual Development Project on CIFAR-10 <a name="unit11"></a>
 This unit was centered around an individual development project. 
 
-A full presentation is available here: <a href=https://docs.google.com/presentation/d/1rwIDxzmcRM_dNbesnWP_qWevh05rTUAU-s1vXqhEw5w/edit?usp=sharing>NN Presentation</a>
+A full presentation is available here: <a href="https://docs.google.com/presentation/d/1rwIDxzmcRM_dNbesnWP_qWevh05rTUAU-s1vXqhEw5w/edit?usp=sharing" target="_blank">NN Presentation</a>
+
 A transcript of the video presentation on the project slides is available here: [NNProject_Transcript_Nilsson.docx](https://github.com/user-attachments/files/19826590/NNProject_Transcript_Nilsson.docx)
 
 ## Individual Reflection <a name="reflection"></a>
