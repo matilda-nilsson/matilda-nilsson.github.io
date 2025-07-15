@@ -90,7 +90,7 @@ Here is a link my SQL file: [Data Build](https://github.com/matilda-nilsson/mati
 Here is a PDF of my normalization task: [Normalization Task](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/UNIT7Normalization.pdf)
 
 As well as an image of the completed final table being queried on my local environment. 
-<img width="559" alt="Unit7DataBuild" src="https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit7DataBuildPIC.png" />
+[](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit7DataBuildPIC.png)
 
 ### Unit 8-10 Comparing Compliance Laws <a name="unit8"></a>
 In the EU under Article 5 and 32 of the GDPR, personal data must be processed in a secure and appropriate way. Meaning encryption and pseudonymization are essential to protect confidentiality. These measures must also be visible and proactive in order to reduce the harm of data loss or data leaks. 
