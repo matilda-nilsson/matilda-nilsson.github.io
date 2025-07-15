@@ -128,7 +128,9 @@ Also on this unit, I learned how databases handle transactions and prevent data 
 
 By the end of the unit, I understood how a transaction manager keeps everything running smoothly and ensures that every transaction is either fully completed or fully undone.
 
-Also in this unit, we completed a final assignment expanding on the group project from Unit 6. I provided an executive summary, which can be found here: [Executive Summary](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/ExecSummary_NILSSON.pdf)
+Also in this unit, we completed a final assignment expanding on the group project from Unit 6. I provided an executive summary, which can be found here: 
+
+[Executive Summary](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/ExecSummary_NILSSON.pdf)
 
 As a personal evaluation of Unit 6 vs. the final project in Unit 11, I found that expanding on the thoughts and ideas individually let me expand a lot more on things I struggled to share in Unit 6. I did not enjoy the group assignment in the beginning, but finalizing this project now at the end of this module has let me explore more with the learning materials along with the initial project design. Overall, I am satisfied with my final product, and wish I had put more effort into the initial group effort to finalize a proper submission in Unit 6.
 
