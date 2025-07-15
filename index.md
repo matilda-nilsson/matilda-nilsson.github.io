@@ -11,24 +11,26 @@ I enjoy solving problems and am fascinated by statistical data analysis. I ride 
 ## Experience
 ### Weems Design Studio
 2020 - Present
-- Python/Django developer
 - Project Data Engineer
+- Python/Django developer
 
 ### Police Department
 2019-2020
 - Specialized support in networking, computers, body-cameras, and vehicle operations.
 
 ### Volunteer Work
-- Cat shelter volunteer, fostering at-risk cats and kittens to become adoptable.
+- Cat shelter volunteer, fostering at-risk cats and kittens.
 - Community programs, aiding homeless shelters in organization, sanitation, and other needs.
 
 ## Education
 ### University of Essex 
-  MSc Data Science
+    MSc Data Science
 ### Arcadia University
-  BA Computing Technology & Design
+    BA Computing Technology & Design
 
 ## Portfolio
 [Machine Learning](/ml.md)
+
+[Deciphering Big Data](/bd.md)
 
 [Global Rising Temperatures Tableau Project](/GT.md)
