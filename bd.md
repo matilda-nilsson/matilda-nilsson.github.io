@@ -53,7 +53,7 @@ One of the most interesting takeaways of this unit was learning how APIs functio
 This week's unit delves into web scraping. I followed the example provided from <a href="https://realpython.com/beautiful-soup-web-scraper-python">realpython.com</a> and created a sippit of code that searches for the phrase "data scientist" on Wikipedia. This exercise helped me go from theory to practice, creating more confidence in not just pulling data in Python, but parsing it into structured files.
 I analyzed the various collection methods: APIs, scraping, and crowdsourcing, and by weighing the multiple approaches to understand the choice of where to store the output (JSON, XML, etc.) is more than a format decision. 
 For my unit 3 activity, I chose to scrape the phrase 'data scientist' from a Wikipedia page utilizing Beautiful Soup and Requests libraries. 
-A link to this activity can be found <a>here</a>
+A link to this activity can be found here: [Unit3](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit3.ipynb)
 I thoroughly enjoyed this process. It let me explore and truly "play around" with various code snippets. I find that more hands-on approaches to programming will always be superior to textbook reading and chapter reviews.
 
 ### Unit 4 Data Cleaning and Transformation <a name="unit4"></a>
@@ -61,7 +61,7 @@ I thoroughly enjoyed this process. It let me explore and truly "play around" wit
 Exploring the techniques and methods of data cleaning this week gives a critical understanding to how data design and the process of automation works. The ability to clean and transform data effectively by following the data pipeline as a guide has given me the neccessary tools to creating an atumoated process. 
 For this week's exercise, we used this dataset by Jackie Kazil. This work is referenced in ‘UNICEF’s Child Labor datasets taken from the Kazil & Jarmul, 2016.'
 After I created a cleaned version of the data, I continued exploring the dataset by summarizing some statistics on the data itself, as well as checking for remaining missing values. In the future, I think it would be fun to explore this data further with some visuals using a dashboard format, as I have done in previous projects.
-A link to my exploration can be found <a>here</a>
+A link to my exploration can be found here: [Unit4](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit4Cleaning.ipynb)
 
 ### Unit 5 Data Cleaning and Automating Data Collections <a name="unit5"></a>
 
@@ -69,20 +69,23 @@ Unit 5 builds upon the previous week's UNICEF data, this time diving deeper into
 Working with the same repository, I started to think beyond the single DataFrame and instead build a pipeline that could loop through files, standardize column names, handle missing values, and save clean outputs that would be ready for analysis. 
 
 My key takeaways from this unit are that automation isn't just about convenience, it's also about reducing error and consistency.
-A link to my further exploration from Unit 4 can be found <a>here</a>
 
 ### Unit 6 Database Design and Normalisation <a name="unit6"></a>
 
 This unit shifts the focus from raw data to how that data is structured and stored through relational database design. A big part of this week was learning how proper cleaning and formatting of data directly supports building reliable databases. I spent time understanding how relational databases are constructed, why key fields are essential for linking different tables, and how normalization plays a role in reducing redundancy and improving efficiency.
 
 I also explored some of the core concepts and terminology used in database architecture, like primary keys, foreign keys, and relationships between entities.
-A highlight of this unit was working on our group project, where we collaborated to outline the structure for a MySQL database and the concept of ZeroTrace, our group's idea of an accessibility tool form for those who need it. It was a hands-on way to apply what we were learning, and it really helped reinforce the importance of planning before building. Our report on ZeroTrace can be found <a>here</a
+A highlight of this unit was working on our group project, where we collaborated to outline the structure for a MySQL database and the concept of ZeroTrace, our group's idea of an accessibility tool form for those who need it. It was a hands-on way to apply what we were learning, and it really helped reinforce the importance of planning before building. 
+
+Our report on ZeroTrace can be found here: [Developmental Team Project](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/DevelopmentTeamProject-BigData.pdf)
 
 ### Unit 7 Constructing Normalised Tables and Database Build <a name="unit7"></a>
 This week I got to utalize skills I have already honed in from my work as a lead data scienctist within my career. We were given an un-normalized table and asked to break it down into 1NF, 2NF, and 3NF (first, second, and third normal form). This task was easy for me as I do a lot of normalization tasks within my daily scope of work. I did enjoy thinking about normalization in terms of students, teachers, and courses instead of a more cooporate setting. Next, we were tasked with creating a database build for the tables we had normalized. This step was smooth and unchallaging and did not take much of my time, I used PostgresSQL as it is what I am the most confident in and utalized PGAdmin to completete the query work. 
 
-Here is a <a>link</a> to my SQL file, as well as an image of the completed final table being queried on my local environment. 
-![Unit7 IMAGE THINGY LINK](LINK)
+Here is a my SQL file: [Data Build](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit7Databuild.sql)
+Here is a PDF of my normalization task: [Normalization Task](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit7Normalization.pdf)
+As well as an image of the completed final table being queried on my local environment. 
+<img width="559" alt="Unit7DataBuild" src="https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit7DataBuildPIC.png" />
 
 ### Unit 8-10 Comparing Compliance Laws <a name="unit8"></a>
 In the EU under Article 5 and 32 of the GDPR, personal data must be processed in a secure and appropriate way. Meaning encryption and pseudonymization are essential to protect confidentiality. These measures must also be visible and proactive in order to reduce the harm of data loss or data leaks. 
@@ -104,12 +107,12 @@ WP Legal Pages, 2024. Pennsylvania Consumer Data Privacy Act (PCDPA). [online] A
 
 ### Unit 10 Application Programming Interfaces for Data Parsing  <a name="unit10"></a>
 
-APIs play a pivotal role in parsin data and enabling communication between programs. Whether it's scraping JSON from a web service or passing structured XML between systems, APIs act as a connector between the applications. We looked into how APIs are used for data parsing and inter-process communication, especially in Python where modules like 'requests' 'http.client' or external packages like 'Flask' and 'FastAPI' make it more streamlined. But ease of access also pose more of a security risk, the more open an API is, the more careful a developer has to be in regards to authenticated users, sensitive data, and to fight misuse. 
+APIs play a pivotal role in parsing data and enabling communication between programs. Whether it's scraping JSON from a web service or passing structured XML between systems, APIs act as a connector between the applications. We looked into how APIs are used for data parsing and inter-process communication, especially in Python where modules like 'requests' 'http.client' or external packages like 'Flask' and 'FastAPI' make it more streamlined. But ease of access also pose more of a security risk; the more open an API is, the more careful a developer has to be in regards to authenticated users, sensitive data, and to fight misuse. 
 
 I also learned about the most common security practices like API key management, token-based authentication, HTTPS enforcement, and data validation. Each practice plays a vital role in how API can fight to not expose the system or data to any risk.
 
 I decided to draft a security specification outline based on a publicly available API called OpenWeatherMap API. The security requirement specification is listed below: 
-A link to my draft is found <a>here</a>
+A link to my draft is found here: [OpenWeatherMap Idea](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit10APIIdea.pdf)
 
 ### Unit 11 DBMS Transaction and Recovery <a name="unit11"></a>
 The Grandfather-Father-Son (GFS) backup system is a smart way to manage backups without using too much storage. It works by saving daily backups (sons), weekly ones (fathers), and a monthly version (the grandfather). These are rotated on a schedule, which means you don’t need to do a full backup every single day—saving both time and space. This is especially helpful for large databases where daily full backups would be too heavy to handle. 
@@ -120,7 +123,7 @@ Also on this unit, I learned how databases handle transactions and prevent data 
 
 By the end of the unit, I understood how a transaction manager keeps everything running smoothly and ensures that every transaction is either fully completed or fully undone.
 
-Also in this unit, we completed a final assignment expanding on the group project from Unit 6. I provided an executive summary, which can be found <a>here</>.
+Also in this unit, we completed a final assignment expanding on the group project from Unit 6. I provided an executive summary, which can be found here: [Executive Summary](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/ExecSummary_NILSSON.pdf)
 
 As a personal evaluation of Unit 6 vs. the final project in Unit 11, I found that expanding on the thoughts and ideas individually let me expand a lot more on things I struggled to share in Unit 6. I did not enjoy the group assignment in the beginning, but finalizing this project now at the end of this module has let me explore more with the learning materials along with the initial project design. Overall, I am satisfied with my final product, and wish I had put more effort into the initial group effort to finalize a proper submission in Unit 6.
 
