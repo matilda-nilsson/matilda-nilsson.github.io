@@ -53,7 +53,9 @@ One of the most interesting takeaways of this unit was learning how APIs functio
 This week's unit delves into web scraping. I followed the example provided from <a href="https://realpython.com/beautiful-soup-web-scraper-python">realpython.com</a> and created a sippit of code that searches for the phrase "data scientist" on Wikipedia. This exercise helped me go from theory to practice, creating more confidence in not just pulling data in Python, but parsing it into structured files.
 I analyzed the various collection methods: APIs, scraping, and crowdsourcing, and by weighing the multiple approaches to understand the choice of where to store the output (JSON, XML, etc.) is more than a format decision. 
 For my unit 3 activity, I chose to scrape the phrase 'data scientist' from a Wikipedia page utilizing Beautiful Soup and Requests libraries. 
+
 A link to this activity can be found here: [Unit3](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit3.ipynb)
+
 I thoroughly enjoyed this process. It let me explore and truly "play around" with various code snippets. I find that more hands-on approaches to programming will always be superior to textbook reading and chapter reviews.
 
 ### Unit 4 Data Cleaning and Transformation <a name="unit4"></a>
@@ -61,6 +63,7 @@ I thoroughly enjoyed this process. It let me explore and truly "play around" wit
 Exploring the techniques and methods of data cleaning this week gives a critical understanding to how data design and the process of automation works. The ability to clean and transform data effectively by following the data pipeline as a guide has given me the neccessary tools to creating an atumoated process. 
 For this week's exercise, we used this dataset by Jackie Kazil. This work is referenced in ‘UNICEF’s Child Labor datasets taken from the Kazil & Jarmul, 2016.'
 After I created a cleaned version of the data, I continued exploring the dataset by summarizing some statistics on the data itself, as well as checking for remaining missing values. In the future, I think it would be fun to explore this data further with some visuals using a dashboard format, as I have done in previous projects.
+
 A link to my exploration can be found here: [Unit4](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit4Cleaning.ipynb)
 
 ### Unit 5 Data Cleaning and Automating Data Collections <a name="unit5"></a>
@@ -82,8 +85,10 @@ Our report on ZeroTrace can be found here: [Developmental Team Project](https://
 ### Unit 7 Constructing Normalised Tables and Database Build <a name="unit7"></a>
 This week I got to utalize skills I have already honed in from my work as a lead data scienctist within my career. We were given an un-normalized table and asked to break it down into 1NF, 2NF, and 3NF (first, second, and third normal form). This task was easy for me as I do a lot of normalization tasks within my daily scope of work. I did enjoy thinking about normalization in terms of students, teachers, and courses instead of a more cooporate setting. Next, we were tasked with creating a database build for the tables we had normalized. This step was smooth and unchallaging and did not take much of my time, I used PostgresSQL as it is what I am the most confident in and utalized PGAdmin to completete the query work. 
 
-Here is a my SQL file: [Data Build](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit7Databuild.sql)
-Here is a PDF of my normalization task: [Normalization Task](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit7Normalization.pdf)
+Here is a link my SQL file: [Data Build](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/UNIT7Databuild.sql)
+
+Here is a PDF of my normalization task: [Normalization Task](https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/UNIT7Normalization.pdf)
+
 As well as an image of the completed final table being queried on my local environment. 
 <img width="559" alt="Unit7DataBuild" src="https://github.com/matilda-nilsson/matilda-nilsson.github.io/blob/main/assets/css/BD/Unit7DataBuildPIC.png" />
 
