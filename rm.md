@@ -60,7 +60,7 @@ British Computer Society (2021) BCS Code of Conduct.
 
 **Initial Post**
 
-Abi's dilemma highlights a dungamental ethical issue in data science: statistical objectivity versus commercial pressure. While Abi is tempted to reframe the analyses to show Whizzz in a favorable light, doing so would breach professional integrity and violate the principles of transparency and honesty. According to the ACM Code of Ethics (2018), computing professionals must "avoid harm" (Principle 1.2) and "be honest and trustworthy" (Principle 1.3). Manipulating analytical framing to mislead stakeholders, even without altering data, undermines these standards.
+Abi's dilemma highlights a fundamental ethical issue in data science: statistical objectivity versus commercial pressure. While Abi is tempted to reframe the analyses to show Whizzz in a favorable light, doing so would breach professional integrity and violate the principles of transparency and honesty. According to the ACM Code of Ethics (2018), computing professionals must "avoid harm" (Principle 1.2) and "be honest and trustworthy" (Principle 1.3). Manipulating analytical framing to mislead stakeholders, even without altering data, undermines these standards.
 
 Abi has an ethical and professional obligation to report the complete and accurate findings, including both positive and negative results. Presenting only selective analyses constitutes data bias and misrepresentation, which can distort public understanding and harm consumers. The BCS Code of Conduct (2021) similarly emphasizes acting in the public interest and ensuring that outputs are not used to deceive or cause harm.
 
@@ -100,51 +100,7 @@ This unit focused on the types of reasoning used in the scientific method of pro
 
 For our unit 1 activity, we were tasked with writing a reflective activity titled **Ethics in Computing in the age of Generative AI**.
 
-(Rolfe et al., 2001 framework: What? So What? Now What?)
-
-**What?**
-
-The rapid rise of generative AI since late 2022 has reshaped almost every field of activity, including computer science itself. Systems such as ChatGPT, DALL·E, and Copilot have made artificial intelligence mainstream, but they have also exposed deep ethical and governance challenges around privacy, intellectual property, disinformation, and accountability.
-
-In their paper, Correa et al. (2023) emphasize that while global stakeholders agree on the importance of ethical AI, there is no international consensus on the values that should guide AI development. They highlight that the diversity of legal systems, cultural contexts, and policy priorities makes it difficult to harmonize standards, yet the need for shared governance tools is increasingly urgent. Similarly, Deckard (2023) warns that without coordinated oversight, AI may advance faster than society’s ability to manage its consequences, especially in areas such as surveillance, data protection, and misinformation.
-
-As a computing professional entering the field, I find this debate both exciting and concerning. I am inspired by the creative potential of AI but equally aware of the ethical risks of unchecked innovation. Reflecting on these readings, I recognize that regulation is not an obstacle to progress but a foundation for sustainable and trustworthy AI development.
-
-**So What?**
-
-From a professional and ethical perspective, the absence of unified AI governance threatens several key principles of computing ethics. Both the ACM (2018) and BCS (2021) Codes of Conduct stress that professionals must avoid harm, act in the public interest, and ensure that their products are used responsibly. When organizations prioritize rapid deployment over ethical evaluation, they risk violating these responsibilities.
-
-The fragmented state of AI policy across nations adds to this problem. For example, the EU AI Act uses a risk-based regulatory approach that classifies AI systems by potential harm, while the United States relies more on voluntary frameworks such as the NIST AI Risk Management Framework. Meanwhile, countries like China are introducing stricter content and model approval regulations driven by national security and social stability priorities. As Correa et al. (2023) note, this divergence creates uncertainty for global companies and inconsistent protections for users.
-
-Reflecting on these differences, I see how they mirror larger philosophical divides. Should AI ethics be guided by universal human rights principles or by context-specific cultural norms? Personally, I believe a hybrid model is necessary: one that enshrines universal protections for privacy, non-discrimination, and transparency while allowing flexibility for local interpretation.
-
-Professionally, I also recognize the implications for developers like myself. As Deckard (2023) observes, the growing complexity of AI systems blurs lines of accountability. Engineers may not fully understand how models generate outputs, yet they remain responsible for potential harms. This realization underscores the importance of continuous ethical reflection and interdisciplinary collaboration. Legal compliance alone is insufficient; as a professional, I must cultivate an ethical mindset that questions should we build this?, not only can we build this?
-
-Socially, the risks of unregulated AI are already visible in the spread of deepfakes, automated disinformation, and biased algorithms. These outcomes erode public trust and disproportionately harm marginalized communities. If left unchecked, they could worsen inequality and undermine democratic institutions. Therefore, effective regulation is not merely a technical matter; it is a societal necessity to ensure fairness, accountability, and respect for human dignity.
-
-**Now What?**
-
-Moving forward, I believe computing professionals must play an active role in shaping AI regulation rather than waiting for policymakers to dictate the rules. Developers and data scientists have insider knowledge of how algorithms operate, and their participation is essential to creating realistic, enforceable governance frameworks. I see this as part of my professional duty to contribute to the ethical evolution of my field.
-
-Practically, this means embedding ethical review processes throughout the AI lifecycle. For example, implementing bias audits, explainability testing, and impact assessments should become standard practice before system deployment. These align with the OECD AI Principles (2019), which advocate for transparency, accountability, and robustness as global best practices. I also intend to keep my technical work aligned with privacy-by-design and fairness-by-design approaches, ensuring that user protection is integral rather than reactive.
-
-From a legal standpoint, I support a model similar to the EU AI Act, but with stronger global cooperation. A shared international registry of high-risk AI systems, as suggested by Correa et al. (2023), could promote transparency and collective accountability. Industry consortia, such as the Partnership on AI, already provide collaborative spaces for this, but they require more binding commitments and governmental backing.
-
-Personally, this reflection has altered my perspective on innovation. I once saw regulation as a limitation; now I see it as a mechanism that preserves public trust and long-term innovation potential. Over-regulation may slow early development, but under-regulation risks far greater harm by eroding user confidence, inviting misuse, and damaging the credibility of computing professionals.
-
-In my career, I will promote ethical awareness within any team or organization I work with. This includes promoting transparency in algorithmic decision-making, supporting the use of open and explainable models, and encouraging diverse stakeholder input in AI design. I will also stay informed on emerging governance literature and participate in continuous professional development related to AI ethics. This reflection has reinforced my belief that computing is not just a technical discipline but also a moral and social one. The responsibility of ensuring that technology serves humanity equitably must be shared by all professionals. Regulation, when thoughtfully designed and globally coordinated, is not an adversary of innovation but its ethical compass.
-
-References
-
-Association for Computing Machinery (2018) ACM Code of Ethics and Professional Conduct.
-
-British Computer Society (2021) BCS Code of Conduct.
-
-Correa, D., Png, M.-T., Yu, S., and Chan, K. (2023) Global AI Governance: Mapping the Landscape of Principles and Policies. AI & Society.
-
-Deckard, A. (2023) Governing Generative AI: Ethics, Regulation, and Responsibility. Journal of Information, Communication and Ethics in Society, 21(4), pp. 512–528.
-
-Organization for Economic Co-operation and Development (OECD) (2019) OECD Principles on Artificial Intelligence.
+[Ethics in Computing in the age of Generative AI.pdf](https://github.com/user-attachments/files/23007081/Ethics.in.Computing.in.the.age.of.Generative.AI.pdf)
 
 ### Unit 2 Research Questions, the Literature Review and the Research Proposal <a name="unit2"></a>
 
@@ -160,11 +116,11 @@ To critically evaluate the contribution of deep learning to suspect profiling an
 
 Objectives:
 
-Examine the evolution of suspect profiling and its shift from behavioural to computational methods.
+Examine the evolution of suspect profiling and its shift from behavioral to computational methods.
 
 Assess the performance and limitations of deep learning approaches (vision-based, NLP, and hybrid).
 
-Analyse ethical and legal challenges including bias, privacy, explainability, and due process.
+Analyze ethical and legal challenges including bias, privacy, explainability, and due process.
 
 Identify research gaps and propose principles for fairness-by-design and accountable AI in forensic contexts.
 
@@ -176,11 +132,11 @@ Positions suspect profiling within the history of criminology and explains the t
 
 2. Literature Review:
  
-Synthesises current findings on deep learning for visual, textual, and hybrid profiling. Critically discusses reproducibility, dataset bias, and legal implications such as GDPR and the EU AI Act.
+Synthesizes current findings on deep learning for visual, textual, and hybrid profiling. Critically discusses reproducibility, dataset bias, and legal implications such as GDPR and the EU AI Act.
 
 3. Methodology:
 
-Employs a qualitative meta-analysis of published studies, supported by thematic content analysis to categorise ethical and methodological challenges. Data will be drawn from peer-reviewed journals, technical reports, and legal documents.
+Employs a qualitative meta-analysis of published studies, supported by thematic content analysis to categorize ethical and methodological challenges. Data will be drawn from peer-reviewed journals, technical reports, and legal documents.
 
 4. Ethical Considerations:
 
@@ -372,7 +328,7 @@ Going forward, I will integrate basic statistical measures into my research pipe
 
 ## Unit 7 Inferential Statistics and Hypothesis Testing <a name="unit7"></a>
 
-This unit explored inferential statistics, and focused on how researches use sample data to make generalizations about larger populations. The focus on probability thoery for managing uncertainty and on hypothesis testing for drarwing conclusions from data. By testing hypotheses, researches can determine whether observed differences or relationships in a dataaset are statistically important or if they have occured by chance. 
+This unit explored inferential statistics, and focused on how researches use sample data to make generalizations about larger populations. The focus on probability theory for managing uncertainty and on hypothesis testing for drawing conclusions from data. By testing hypotheses, researches can determine whether observed differences or relationships in a dataset are statistically important or if they have occurred by chance. 
 
 Unit 7 included an activity worksheet, a discussion post, and a literature review. 
 
@@ -423,7 +379,7 @@ Links to each Excel Workbook can be found below:
 [Exe 8.2B.xlsx](https://github.com/user-attachments/files/23003117/Exe.8.2B.xlsx)
 [Exe 8.1B.xlsx](https://github.com/user-attachments/files/23003116/Exe.8.1B.xlsx)
 
-## Unit 9 Validity and Generalisability in Research <a name="unit9"></a>
+## Unit 9 Validity and Generalizability in Research <a name="unit9"></a>
 
 Unit 9 covered qualitative data analysis methods and their interpretive nature. It requires nuanced interpretation and is often used for exploratory research. The process involves coding responses to categorizing data, and understanding various types of analysis methods is crucial in communicating findings. This unit also included another activity based on visualization. 
 
@@ -437,7 +393,7 @@ This bar chart represents the percentage of preference for cereal brands A, B an
 
 Chart 2: Clutered Bar Chart of Area 1 vs. Area 2.
 
-The clustered bar chart compares ceral brand preferences between Area 1 (red) and Area 2 (blue). 
+The clustered bar chart compares cereal brand preferences between Area 1 (red) and Area 2 (blue). 
 
 Brand A: Area 2 (21.1%) shows slightly higher preference than Area 1 (15.7%).
 
@@ -451,25 +407,139 @@ Together, Area 1 consumers lean more strongly toward “Other” cereals, sugges
 
 Chart 3: Hisogram - Diet B
 
-The histogram shows relative frequency distribution of weigh loss almongst people on Diet B. The shape is almost symmetric but slightly left-skewed, indicating that while most people lost between 1-5kg, a few experienced minimal or negative weight change.  This implies that Diet B promotes moderate weight loss, but individual variation remainds high. 
+The histogram shows relative frequency distribution of weight loss amongst people on Diet B. The shape is almost symmetric but slightly left-skewed, indicating that while most people lost between 1-5kg, a few experienced minimal or negative weight change.  This implies that Diet B promotes moderate weight loss, but individual variation remains high. 
 
 <img width="389" height="282" alt="93b" src="https://github.com/user-attachments/assets/e4fd850d-4a49-401d-ba01-12c0d5df836d" />
 
 
 ## Unit 10 Research Writing <a name="unit10"></a>
 
-This week we submitted our research proposal presentation. THis project was a huge undertaking and provided a great accumulation of my work thus far in this module. My proposed research explored deep learning in suspect profiling and its ethical implications in fairness, transparency, and accountability. Applying research writing principles means my proejct proposal had to formulate a clear and answerable research question, bridging data science and criminnology. It has to use the literature review to contextualize techinlca and ethical challanges in profiling algorithms. It must outline a methodology that combines quantitative analysis and qualitative ethical assessment, and finally, plan for results to be presentated through data visualizations and summaries to highlight bias patterns and behavior. 
+This week we submitted our research proposal presentation. This project was a huge undertaking and provided a great accumulation of my work thus far in this module. My proposed research explored deep learning in suspect profiling and its ethical implications in fairness, transparency, and accountability. Applying research writing principles means my project proposal had to formulate a clear and answerable research question, bridging data science and criminology. It has to use the literature review to contextualize technical and ethical challenges in profiling algorithms. It must outline a methodology that combines quantitative analysis and qualitative ethical assessment, and finally, plan for results to be presented through data visualizations and summaries to highlight bias patterns and behavior. 
 
 A link to my presentaiton and transcript can be found below: 
 
+[Justice by Design.pptx](https://github.com/user-attachments/files/23004822/Justice.by.Design.-.Copy.pptx)
 
 [Justice by Design.pdf](https://github.com/user-attachments/files/23004693/NILSSON.Justice.by.Design.pdf)
 
-
-
 ## Unit 11 Going Forward: Professional Development and Your e-Portfolio <a name="unit11"></a>
+
+This week was all about professional skill development and reflection on learning approach. Below you will find my professional skills matrix and CPD Plan.
+
+### **Professional Skills Matrix**  
+**University of Essex – Adapted from BCS Guidelines and Essex Graduate Framework**  
+
+**Skill Level Definitions:**  
+- **Aware:** General understanding and basic knowledge  
+- **Trained:** Able to apply knowledge; can work independently under certain conditions  
+- **Proficient:** Broad and in-depth knowledge; can work independently with minimal supervision  
+- **Expert:** Subject matter expert; able to lead and train others  
+
+| **Competency** | **Essex Graduate Attribute** | **Skill** | **Skill Level** |
+|----------------|------------------------------|------------|------------------|
+| **Professional** | Literacy, Communication, Language Skills | Express information effectively to technical and non-technical audiences (e.g., through research writing and visualisation dashboards) | **Proficient** |
+|  |  | Create documents and visual artefacts to aid communication (e.g., research reports, ER diagrams, data models, project documentation) | **Expert** |
+| **Commercial Awareness** | Industry and Technical Currency | Keep current with emerging tools and technologies (PostgreSQL 16, SQLAlchemy, Alembic, Power BI, etc.) | **Proficient** |
+|  |  | Seek opportunities to improve and share knowledge of tools and technologies that enhance data productivity and automation | **Proficient** |
+|  |  | Participate in professional communities (e.g., AI ethics forums, data-engineering Slack groups, LinkedIn professional networks) | **Trained** |
+|  |  | Emphasise data quality, user trust, and ethical governance in project delivery | **Proficient** |
+|  |  | Demonstrate familiarity with codes of conduct and professional standards (BCS, ACM, EU AI Act) | **Proficient** |
+| **Subject Understanding, Research, Critical Thinking** | Analytical Reasoning and Research Methods | Critically analyse complex ideas and ethical dilemmas in computing and AI governance | **Proficient** |
+|  |  | Recognise gaps or inconsistencies in datasets and research, and seek valid sources or corrective techniques | **Proficient** |
+|  |  | Explore complex, real-world problems in computing contexts (e.g., AI bias, fairness in predictive policing) | **Proficient** |
+| **Legal and Ethical** | Ethical Awareness and Governance | Comply with data protection laws (GDPR, CCPA) and institutional research ethics guidelines | **Proficient** |
+|  |  | Maintain privacy and confidentiality in data processing and storage | **Expert** |
+|  |  | Evaluate algorithmic systems for bias, fairness, and transparency | **Proficient** |
+| **Social** | Cultural and Community Awareness | Act in the best interests of society by applying ethical and socially responsible computing practices | **Proficient** |
+| **Teamwork and Leadership** | Collaboration, Resilience, and Communication | Collaborate effectively in cross-functional teams (e.g., group data modelling projects, code reviews) | **Expert** |
+|  |  | Demonstrate team leadership and project coordination in technical and academic settings | **Proficient** |
+|  |  | Provide and receive constructive feedback to improve shared outcomes | **Proficient** |
+| **Creativity and Problem Solving** | Innovation and Decision-Making | Design and implement efficient, scalable ETL pipelines and data warehouse schemas | **Proficient** |
+|  |  | Apply creative problem-solving to data-quality or process-automation challenges | **Proficient** |
+|  |  | Use evidence-based reasoning to support decisions in ambiguous or complex data contexts | **Proficient** |
+| **Technical (Data Science)** | IT, Digital, and Analytical Skills | SQL (PostgreSQL, pgAdmin) | **Expert** |
+|  |  | Python for data processing, ML, and automation (Pandas, NumPy, Scikit-learn) | **Proficient** |
+|  |  | NoSQL databases and unstructured data handling (MongoDB, JSON pipelines) | **Trained** |
+|  |  | R for data visualization and statistical analysis | **Trained** |
+|  |  | Git/GitLab for version control and collaborative development | **Proficient** |
+|  |  | Cloud and Data Integration Tools (AWS, Power BI, APIs) | **Trained** |
+|  |  | Use of productivity and collaboration tools (Moodle, Notion, Google Workspace) | **Proficient** |
+|  |  | Advanced use of Word, Excel, and PowerPoint for documentation and presentation | **Expert** |
+| **Subject Application** | Global Citizen, Teamwork, Emotional Intelligence | Take into account diverse user perspectives and accessibility needs when designing data solutions | **Proficient** |
+|  |  | Work constructively with differing viewpoints in academic and technical discussions | **Proficient** |
+|  |  | Contribute to a culture of ethical reflection, inclusivity, and accountability in AI research | **Proficient** |
+|  |  | Develop, articulate, and clarify personal professional values and ethics | **Proficient** |
+
+### **Continuous Professional Development (CPD) Plan**  
+**University of Essex – Research Methods and Professional Practice**  
+
+---
+
+#### **1. Objective**  
+To enhance professional competence, maintain industry relevance, and support lifelong learning through structured personal and professional development in data science and ethical AI practice.
+
+---
+
+#### **2. Short-Term Goals (0–12 months)**  
+| **Goal** | **Actions** | **Resources / Tools** | **Target Date** | **Expected Outcome** |
+|-----------|--------------|------------------------|------------------|-----------------------|
+| Obtain professional certification in data engineering or analytics | Enroll in **Microsoft Certified: Data Analyst Associate** or **Google Professional Data Engineer** | Microsoft Learn, Coursera, Qwiklabs | Within 12 months | Strengthen technical credibility and industry recognition |
+| Strengthen academic research and publication skills | Attend academic writing and data ethics workshops | University workshops, LinkedIn Learning | 6 months | Improved confidence in dissertation and research publication |
+| Expand professional network | Join **BCS** and participate in AI ethics or data governance communities | BCS membership, Slack, LinkedIn | 3 months | Develop professional visibility and mentorship connections |
+| Enhance teaching and presentation ability | Conduct presentations on AI fairness and data transparency | Peer study groups, online seminars | 9 months | Refined communication and leadership skills |
+
+---
+
+#### **3. Medium-Term Goals (1–3 years)**  
+| **Goal** | **Actions** | **Resources / Tools** | **Target Date** | **Expected Outcome** |
+|-----------|--------------|------------------------|------------------|-----------------------|
+| Transition into a senior data engineer or research-oriented role | Build a professional portfolio integrating ETL pipelines, AI audit models, and dashboards | GitHub, Power BI, AWS | 2 years | Career advancement into senior or specialist data science roles |
+| Publish a peer-reviewed paper on ethical AI or algorithmic bias | Convert dissertation into a publication manuscript | Journal of Data Ethics, arXiv, conference calls for papers | 2 years | Contribute to academic and industry discourse on fair AI |
+| Mentor junior data professionals | Volunteer as a peer coach or mentor through BCS or university alumni network | BCS mentorship programs | 2 years | Build leadership and knowledge-sharing experience |
+
+---
+
+#### **4. Long-Term Goals (3–5 years)**  
+| **Goal** | **Actions** | **Resources / Tools** | **Target Date** | **Expected Outcome** |
+|-----------|--------------|------------------------|------------------|-----------------------|
+| Attain recognised expertise in ethical AI and data governance | Complete a **Postgraduate Certificate in AI Ethics or Data Policy** | University of Oxford Online, MITx | 5 years | Specialist credentials in data ethics and compliance |
+| Establish a consultancy or research initiative on ethical data science | Create professional brand and publish case studies | Personal website, LinkedIn Articles | 5 years | Leadership recognition in the ethical AI field |
+
+---
+
+#### **5. Reflection and Evaluation**  
+Regular self-assessment will be conducted every 6 months to review progress and set new objectives. Evaluation will include:
+- Tracking completed certifications and workshops.
+- Reviewing the application of new skills in academic or professional projects.
+- Seeking mentor or peer feedback for continuous growth.
+
+---
+
+#### **6. Alignment with Professional Values**  
+This CPD plan supports the BCS and ACM Codes of Conduct by promoting:
+- **Integrity:** Ensuring responsible and transparent data use.
+- **Competence:** Maintaining technical proficiency and ethical awareness.
+- **Public Good:** Applying data science solutions that serve social welfare and fairness.
 
 ## Unit 12 Project Management and Managing Risk <a name="unit12"></a>
 
+Project management in computing involves resources, coordinating, and people to deliver an outcome. Often under constraints of time, budget, and scope. In data science, the effectiveness of project management ensures that every step aligns with both ethical and business standards. The module emphasis has been on that there is no universal method that fits all projects. Instead, everything requires an adaptive approach and considerations. I've learned in frameworks such as Agile, Scrum, and PRINCE2, are all effective depending on the environment. 
+
+Project life cycles typically include:
+- Initiation
+- Planning
+- Execution
+- Monitoring and Control
+- Closure
+
+In Agile iterative models align well with experimentation cycles. Each "sprint" represents a research milestone, however, maintaining documentation and audit trails remains essential, especially in ethical and regulated contexts. 
+
+A core insight from this unit is that no project is risk-free. From technical to ethical, managing uncertainty means knowing what is unknown while preparing for contingencies. In the context of my research, ethical risk management is paramount. Potential risks include biased training data or misinterpretation of outputs. Mitigation strategies include dataset audits, explainability methods, and stakeholder reviews before deployment. 
+
 ## Individual Reflection <a name="reflection"></a>
+
+A link to my individual reflection can be found below: 
+
+[Reflection.pdf](https://github.com/user-attachments/files/23007542/Reflection.pdf)
+
 
