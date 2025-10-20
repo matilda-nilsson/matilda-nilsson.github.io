@@ -374,7 +374,9 @@ Going forward, I will integrate basic statistical measures into my research pipe
 
 This unit explored inferential statistics, and focused on how researches use sample data to make generalizations about larger populations. The focus on probability thoery for managing uncertainty and on hypothesis testing for drarwing conclusions from data. By testing hypotheses, researches can determine whether observed differences or relationships in a dataaset are statistically important or if they have occured by chance. 
 
-Unit 7 included two activites and a discussion post. The discussion post can be found under [Collaborative Discussion Summaries](#discussions)
+Unit 7 included an activity worksheet, a discussion post, and a literature review. 
+
+The discussion post can be found under [Collaborative Discussion Summaries](#discussions)
 
 **Activity: Hypothesis Testing Worksheet**
 
@@ -386,6 +388,31 @@ Links to each Excel Workbook can be found below:
 [Exa 7.2B.xlsx](https://github.com/user-attachments/files/23002829/Exa.7.2B.xlsx)
 [Exa 7.1B.xlsx](https://github.com/user-attachments/files/23002828/Exa.7.1B.xlsx)
 
+**Literature Review**
+
+[Lit Review Profiling.pdf](https://github.com/user-attachments/files/23003409/Lit_Review_NILSSON.pdf)
+
+## Unit 8 Data Analysis and Visualisation <a name="unit8"></a>
+
+This unit was very interesting. Examining how quantitative and qualitative data require different approaches for cleaning, interpretation, and presentation. Because my chosen topic is primarily qualitative with a technical component, my analysis will be based on document coding and thematic interpretation rather than numerical computation. key sources such as audit reports, academic case studies, and policy papers will be coded into categories like bias, privacy, transparency, and accountability. 
+
+For any material such as algorithmic audit results or bias-rate statistics, I will use summaries such as means, medians, and variation, to support qualitative themes. Visualization also plays a vital role in presenting research findings in an accessible way. In my study, I could create a small-scale conceptual dashboard to demonstrate how fairness or error-rate metrics could be visualised in a transparent, public-facing format.
+
+This unit reminded me that this type of interpretation is inherently subjective. Recognizing my own bias as a researcher is crucial in avoiding biased based conclusions.
+
+References:
+
+Association for Computing Machinery (2018) ACM Code of Ethics and Professional Conduct.
+
+British Computer Society (2021) BCS Code of Conduct.
+
+Business Research Methodology (BRM) (2021) Qualitative Data Analysis.
+
+Microsoft (2023) Why Data Dashboards Are Important. Available at: https://www.microsoft.com/
+
+Sage (2021) Sage Research Methods: Methods Map.
+
+Unit 8 included an activity worksheet.
 
 **Activity: Summary Measures Worksheet**
 
@@ -396,12 +423,49 @@ Links to each Excel Workbook can be found below:
 [Exe 8.2B.xlsx](https://github.com/user-attachments/files/23003117/Exe.8.2B.xlsx)
 [Exe 8.1B.xlsx](https://github.com/user-attachments/files/23003116/Exe.8.1B.xlsx)
 
-
-## Unit 8 Data Analysis and Visualisation <a name="unit8"></a>
-
 ## Unit 9 Validity and Generalisability in Research <a name="unit9"></a>
 
+Unit 9 covered qualitative data analysis methods and their interpretive nature. It requires nuanced interpretation and is often used for exploratory research. The process involves coding responses to categorizing data, and understanding various types of analysis methods is crucial in communicating findings. This unit also included another activity based on visualization. 
+
+**Activity: Data Analysis and Interpretation**
+
+Chart 1: Bar chart for Area 2. 
+
+This bar chart represents the percentage of preference for cereal brands A, B and Other within Area 2. Brand A accounts for roughly 21%, Brand B for 33%, and Other for 45%. This shows a diverse preference pattern, with nearly half favoring brands other than the A and B options. This indicates greater product variety or less brand loyalty. 
+
+<img width="384" height="296" alt="Bar Chart Area 2" src="https://github.com/user-attachments/assets/f8cfac14-b042-4010-93cd-2949a024bd86" />
+
+Chart 2: Clutered Bar Chart of Area 1 vs. Area 2.
+
+The clustered bar chart compares ceral brand preferences between Area 1 (red) and Area 2 (blue). 
+
+Brand A: Area 2 (21.1%) shows slightly higher preference than Area 1 (15.7%).
+
+Brand B: Again, Area 2 (33.3%) leads Area 1 (24.3%).
+
+Other brands: Area 1 (60.0%) dominates compared to Area 2 (45.6%).
+
+Together, Area 1 consumers lean more strongly toward “Other” cereals, suggesting a broader range of brands influencing buying behavior. In contrast, Area 2’s preferences are more evenly distributed, hinting at a more balanced market. This comparison highlights how geographic or demographic differences can influence consumer behavior.
+
+<img width="384" height="294" alt="92E" src="https://github.com/user-attachments/assets/1598cea4-d194-4db1-a8b6-2fcc8d406d10" />
+
+Chart 3: Hisogram - Diet B
+
+The histogram shows relative frequency distribution of weigh loss almongst people on Diet B. The shape is almost symmetric but slightly left-skewed, indicating that while most people lost between 1-5kg, a few experienced minimal or negative weight change.  This implies that Diet B promotes moderate weight loss, but individual variation remainds high. 
+
+<img width="389" height="282" alt="93b" src="https://github.com/user-attachments/assets/e4fd850d-4a49-401d-ba01-12c0d5df836d" />
+
+
 ## Unit 10 Research Writing <a name="unit10"></a>
+
+This week we submitted our research proposal presentation. THis project was a huge undertaking and provided a great accumulation of my work thus far in this module. My proposed research explored deep learning in suspect profiling and its ethical implications in fairness, transparency, and accountability. Applying research writing principles means my proejct proposal had to formulate a clear and answerable research question, bridging data science and criminnology. It has to use the literature review to contextualize techinlca and ethical challanges in profiling algorithms. It must outline a methodology that combines quantitative analysis and qualitative ethical assessment, and finally, plan for results to be presentated through data visualizations and summaries to highlight bias patterns and behavior. 
+
+A link to my presentaiton and transcript can be found below: 
+
+
+[Justice by Design.pdf](https://github.com/user-attachments/files/23004693/NILSSON.Justice.by.Design.pdf)
+
+
 
 ## Unit 11 Going Forward: Professional Development and Your e-Portfolio <a name="unit11"></a>
 
