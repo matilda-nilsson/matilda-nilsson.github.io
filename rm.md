@@ -56,7 +56,43 @@ Association for Computing Machinery (2018) ACM Code of Ethics and Professional C
 
 British Computer Society (2021) BCS Code of Conduct.
 
+#### Collaborative Discussion 2: Codes of Ethics and Professional Conduct
 
+**Initial Post**
+
+Abi's dilemma highlights a dungamental ethical issue in data science: statistical objectivity versus commercial pressure. While Abi is tempted to reframe the analyses to show Whizzz in a favorable light, doing so would breach professional integrity and violate the principles of transparency and honesty. According to the ACM Code of Ethics (2018), computing professionals must "avoid harm" (Principle 1.2) and "be honest and trustworthy" (Principle 1.3). Manipulating analytical framing to mislead stakeholders, even without altering data, undermines these standards.
+
+Abi has an ethical and professional obligation to report the complete and accurate findings, including both positive and negative results. Presenting only selective analyses constitutes data bias and misrepresentation, which can distort public understanding and harm consumers. The BCS Code of Conduct (2021) similarly emphasizes acting in the public interest and ensuring that outputs are not used to deceive or cause harm.
+
+Legally, if the company were to publish misleading nutritional claims, it could breach consumer protection laws such as the UK Consumer Protection from Unfair Trading Regulations (2008) or the U.S. Federal Trade Commission Act (1938). Socially, such misconduct could erode public trust in both scientific research and the food industry.
+
+Abi’s most ethical course of action is to submit a truthful report and formally document all analyses, ensuring transparency and reproducibility. If the manufacturer intends to misrepresent the data, Abi should escalate the concern to his institution’s ethics board or consider whistleblowing through appropriate legal channels.
+
+References:
+
+Association for Computing Machinery (2018) ACM Code of Ethics and Professional Conduct.
+
+British Computer Society (2021) BCS Code of Conduct.
+
+Consumer Protection from Unfair Trading Regulations 2008 (UK).
+
+Federal Trade Commission Act 1938 (US).
+
+**Summary Post:**
+
+This discussion deepened my understanding of the ethical responsibilities that come with data analysis and interpretation. The case of Abi illustrated how integrity extends beyond avoiding outright data manipulation to include the ethical framing and communication of analytical outcomes. I initially viewed statistical programming as a purely technical process, but through this debate, I realized that the ethical weight of data work often lies in the decisions made after analysis, including how results are interpreted, summarized, and reported.
+
+Peer contributions helped me reflect on the tension between professional loyalty and public accountability. Several classmates highlighted the risks of confirmation bias and selective reporting, which reinforced my belief that data professionals must prioritize accuracy and transparency over commercial interests. The ACM (2018) and BCS (2021) codes emphasize honesty and responsibility for the social impact of one’s work, principles that apply as much to data framing as to data collection.
+
+From a legal and social perspective, I came to appreciate that misrepresentation of research findings, even indirectly, can cause real harm by misleading consumers, damaging institutional credibility, and potentially violating consumer protection or advertising laws. This reflection strengthened my conviction that ethical research communication must be clear, complete, and contextually honest.
+
+Going forward, I will ensure that my analyses and reports uphold the values of truthfulness, transparency, and accountability. As both a data scientist and researcher, I recognize that how results are presented is as ethically significant as the analyses themselves.
+
+References:
+
+Association for Computing Machinery (2018) ACM Code of Ethics and Professional Conduct.
+
+British Computer Society (2021) BCS Code of Conduct.
 
 ### Unit 1 The Scientific Investigation and Ethics in Computing <a name="unit1"></a>
 
