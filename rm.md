@@ -336,6 +336,31 @@ Going forward, I will integrate basic statistical measures into my research pipe
 
 ## Unit 7 Inferential Statistics and Hypothesis Testing <a name="unit7"></a>
 
+This unit explored inferential statistics, and focused on how researches use sample data to make generalizations about larger populations. The focus on probability thoery for managing uncertainty and on hypothesis testing for drarwing conclusions from data. By testing hypotheses, researches can determine whether observed differences or relationships in a dataaset are statistically important or if they have occured by chance. 
+
+Unit 7 included two activites and a discussion post. The discussion post can be found under [Collaborative Discussion Summaries](#discussions)
+
+**Activity: Hypothesis Testing Worksheet**
+
+Links to each Excel Workbook can be found below: 
+
+[Exa 7.6B.xlsx](https://github.com/user-attachments/files/23002832/Exa.7.6B.xlsx)
+[Exa 7.4F.xlsx](https://github.com/user-attachments/files/23002831/Exa.7.4F.xlsx)
+[Exa 7.3D.xlsx](https://github.com/user-attachments/files/23002830/Exa.7.3D.xlsx)
+[Exa 7.2B.xlsx](https://github.com/user-attachments/files/23002829/Exa.7.2B.xlsx)
+[Exa 7.1B.xlsx](https://github.com/user-attachments/files/23002828/Exa.7.1B.xlsx)
+
+
+**Activity: Summary Measures Worksheet**
+
+Links to each Excel Workbook can be found below: 
+
+[Exe 8.4G.xlsx](https://github.com/user-attachments/files/23003120/Exe.8.4G.xlsx)
+[Exe 8.3D.xlsx](https://github.com/user-attachments/files/23003118/Exe.8.3D.xlsx)
+[Exe 8.2B.xlsx](https://github.com/user-attachments/files/23003117/Exe.8.2B.xlsx)
+[Exe 8.1B.xlsx](https://github.com/user-attachments/files/23003116/Exe.8.1B.xlsx)
+
+
 ## Unit 8 Data Analysis and Visualisation <a name="unit8"></a>
 
 ## Unit 9 Validity and Generalisability in Research <a name="unit9"></a>
