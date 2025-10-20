@@ -473,53 +473,10 @@ This week was all about professional skill development and reflection on learnin
 ### **Continuous Professional Development (CPD) Plan**  
 **University of Essex – Research Methods and Professional Practice**  
 
----
+A link to my CPD Plan can be found below: 
 
-#### **1. Objective**  
-To enhance professional competence, maintain industry relevance, and support lifelong learning through structured personal and professional development in data science and ethical AI practice.
+[CPD Plan.pdf](https://github.com/user-attachments/files/23008094/CPD.Plan.pdf)
 
----
-
-#### **2. Short-Term Goals (0–12 months)**  
-| **Goal** | **Actions** | **Resources / Tools** | **Target Date** | **Expected Outcome** |
-|-----------|--------------|------------------------|------------------|-----------------------|
-| Obtain professional certification in data engineering or analytics | Enroll in **Microsoft Certified: Data Analyst Associate** or **Google Professional Data Engineer** | Microsoft Learn, Coursera, Qwiklabs | Within 12 months | Strengthen technical credibility and industry recognition |
-| Strengthen academic research and publication skills | Attend academic writing and data ethics workshops | University workshops, LinkedIn Learning | 6 months | Improved confidence in dissertation and research publication |
-| Expand professional network | Join **BCS** and participate in AI ethics or data governance communities | BCS membership, Slack, LinkedIn | 3 months | Develop professional visibility and mentorship connections |
-| Enhance teaching and presentation ability | Conduct presentations on AI fairness and data transparency | Peer study groups, online seminars | 9 months | Refined communication and leadership skills |
-
----
-
-#### **3. Medium-Term Goals (1–3 years)**  
-| **Goal** | **Actions** | **Resources / Tools** | **Target Date** | **Expected Outcome** |
-|-----------|--------------|------------------------|------------------|-----------------------|
-| Transition into a senior data engineer or research-oriented role | Build a professional portfolio integrating ETL pipelines, AI audit models, and dashboards | GitHub, Power BI, AWS | 2 years | Career advancement into senior or specialist data science roles |
-| Publish a peer-reviewed paper on ethical AI or algorithmic bias | Convert dissertation into a publication manuscript | Journal of Data Ethics, arXiv, conference calls for papers | 2 years | Contribute to academic and industry discourse on fair AI |
-| Mentor junior data professionals | Volunteer as a peer coach or mentor through BCS or university alumni network | BCS mentorship programs | 2 years | Build leadership and knowledge-sharing experience |
-
----
-
-#### **4. Long-Term Goals (3–5 years)**  
-| **Goal** | **Actions** | **Resources / Tools** | **Target Date** | **Expected Outcome** |
-|-----------|--------------|------------------------|------------------|-----------------------|
-| Attain recognised expertise in ethical AI and data governance | Complete a **Postgraduate Certificate in AI Ethics or Data Policy** | University of Oxford Online, MITx | 5 years | Specialist credentials in data ethics and compliance |
-| Establish a consultancy or research initiative on ethical data science | Create professional brand and publish case studies | Personal website, LinkedIn Articles | 5 years | Leadership recognition in the ethical AI field |
-
----
-
-#### **5. Reflection and Evaluation**  
-Regular self-assessment will be conducted every 6 months to review progress and set new objectives. Evaluation will include:
-- Tracking completed certifications and workshops.
-- Reviewing the application of new skills in academic or professional projects.
-- Seeking mentor or peer feedback for continuous growth.
-
----
-
-#### **6. Alignment with Professional Values**  
-This CPD plan supports the BCS and ACM Codes of Conduct by promoting:
-- **Integrity:** Ensuring responsible and transparent data use.
-- **Competence:** Maintaining technical proficiency and ethical awareness.
-- **Public Good:** Applying data science solutions that serve social welfare and fairness.
 
 ## Unit 12 Project Management and Managing Risk <a name="unit12"></a>
 
